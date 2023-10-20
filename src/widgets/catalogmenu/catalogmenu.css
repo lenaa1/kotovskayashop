@@ -1,0 +1,10 @@
+.menu{
+    width: 300px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+}

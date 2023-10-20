@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:wght@400;500&display=swap');
+* {
+  font-family: Rubik, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.beige{
+  color: #9B846E;
+  font-weight: 500;
+}
